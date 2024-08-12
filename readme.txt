@@ -1,0 +1,1 @@
+FHCM directory should go inside Music folder in your game root
